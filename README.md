@@ -6,11 +6,9 @@
 
 - 🔭 I’m currently looking for **full-time work**
 
-- 🏫 I’m also a final-year **Master student in Data Science and Analytics program at University of Calgary**
+- 🏫 I have a **Masters in Data Science and Analytics from University of Calgary**
 
 - I'm an **<a href="https://www.credly.com/badges/d56a327e-d23f-4a88-9cf6-2f8338201bb5" rel="nofollow">AWS Certified Solutions Architect - Associate</a>**
-
-- 👨‍💻 I’m currently learning **<a href="https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8670690?start=0#overview" rel="nofollow">the-complete-web-developer-zero-to-mastery</a>**
 
 - 💬 Ask me about **Python, R, Java & Machine Learning**
 
