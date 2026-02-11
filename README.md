@@ -18,18 +18,18 @@ I design and deploy production-ready machine learning systems — not just model
 
 ---
 
-## 🏗 Featured Work
+## 🏗 Featured ML Systems
 
-### 🔹 Offer Recommendation System
-Production-style ML application including:
-- Modular feature pipelines
-- Airflow orchestration
-- MLflow experiment tracking
-- FastAPI inference layer
-- Redis-based caching
-- Separation of training and serving components
+### 🔹 [Offer Recommendation System](https://github.com/PhilipPeprahOwusu/applied-ml-systems/tree/main/offer-recommendation-system)
 
-Designed with reproducibility, scalability, and operational readiness in mind.
+End-to-end ML application with:
+- Airflow-orchestrated pipelines  
+- MLflow experiment tracking  
+- FastAPI-based inference layer  
+- Redis caching  
+- Modular training vs serving architecture  
+
+Built to reflect production-grade ML system design principles.
 
 ---
 
