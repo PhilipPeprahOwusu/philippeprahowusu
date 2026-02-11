@@ -1,7 +1,7 @@
 ![Header](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)
 
 <h1 align="center">Hi 👋, I'm Philip Owusu</h1>
-<h4 align="center">Machine Learning Engineer | Production ML Systems | ML Infrastructure & GenAI</h4>
+<h4 align="center">Data Scientist | Machine Learning Engineer | ML Infrastructure & GenAI</h4>
 
 ---
 
